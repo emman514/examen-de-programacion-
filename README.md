@@ -6,7 +6,11 @@ Realizar un programa que conste de una clase llamada Alumno que tenga como atrib
 
 codigo 
 
+![image](https://github.com/user-attachments/assets/95b27354-bc33-4a9c-acbc-753ce42a85ca)
+
 ejecucion 
+
+![image](https://github.com/user-attachments/assets/bda8efe1-a1b7-4360-bcf6-57b0e544c944)
 
 Ejercicio 2
 Realizar un programa que tenga una clase Persona con las siguientes características. La clase tendrá como atributos el nombre y la edad de una persona. Implementar los métodos necesarios para inicializar los atributos, mostrar los datos e indicar si la persona es mayor de edad o no.
