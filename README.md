@@ -13,7 +13,11 @@ Realizar un programa que tenga una clase Persona con las siguientes característ
 
 codigo
 
+![image](https://github.com/user-attachments/assets/1beb1c41-2d83-466f-a7a8-a2dbf0602f10)
+
 ejecucion 
+
+![image](https://github.com/user-attachments/assets/bd9c2745-efa0-4bfd-8cc5-f8addfe60fa5)
 
 Ejercicio 3
 Desarrollar un programa que cargue los datos de un triángulo. Implementar una clase con los métodos para inicializar los atributos, imprimir el valor del lado con un tamaño mayor y  el tipo de triángulo que es (equilátero, isósceles o escaleno).
