@@ -13,7 +13,7 @@ Realizar un programa que tenga una clase Persona con las siguientes característ
 
 codigo
 
-![image](https://github.com/user-attachments/assets/1beb1c41-2d83-466f-a7a8-a2dbf0602f10)
+![image](https://github.com/user-attachments/assets/3aa092cd-892a-41bb-aaba-b4d300cb39f0)
 
 ejecucion 
 
@@ -24,14 +24,23 @@ Desarrollar un programa que cargue los datos de un triángulo. Implementar una c
 
 codigo
 
+![image](https://github.com/user-attachments/assets/84ea09c7-0878-4cc8-8aec-ba5b875b9223)
+
 ejecucion
+
+![image](https://github.com/user-attachments/assets/379e16b1-48f2-4e27-b6db-6b7ddfa73565)
+
 
  Ejercicio 4
 Realizar un programa en el cual se declaren dos valores enteros por teclado utilizando el método __init__. Calcular después la suma, resta, multiplicación y división. Utilizar un método para cada una e imprimir los resultados obtenidos. Llamar a la clase Calculadora.
 
 codigo
 
+![image](https://github.com/user-attachments/assets/98b6421e-fffc-430f-9ea1-701823ba9c53)
+
 ejecucion
+
+![image](https://github.com/user-attachments/assets/eb79ec69-2727-4a15-8ed6-932bcda224db)
 
 Ejercicio 5
 Realizar una clase que administre una agenda. Se debe almacenar para cada contacto el nombre, el teléfono y el email. Además deberá mostrar un menú con las siguientes opciones
@@ -43,5 +52,14 @@ Cerrar agenda
 
 codigo 
 
+![image](https://github.com/user-attachments/assets/cf0a1361-9788-408a-b6cf-b1322cb4a69b)
+
+![image](https://github.com/user-attachments/assets/23a15af9-6b2e-42a1-8cad-5d90f4d6c657)
+
+![image](https://github.com/user-attachments/assets/1682d3dc-8328-4433-b90a-2d0fda172333)
+
+
+
 ejecucion
 
+![image](https://github.com/user-attachments/assets/564e9ec6-8523-4695-a690-a646554fc75b)
